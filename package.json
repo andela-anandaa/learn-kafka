@@ -1,0 +1,23 @@
+{
+  "name": "learn-kafka",
+  "version": "1.0.0",
+  "description": "learning Kafka indepth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "kafka",
+    "node"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andela-anandaa/learn-kafka.git"
+  },
+  "author": "andela-anandaa",
+  "license": "ISC",
+  "dependencies": {
+    "no-kafka": "^2.8.1",
+    "winston": "^2.2.0"
+  }
+}
